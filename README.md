@@ -1,1 +1,1 @@
-Projeto para calcular media de notas escolares
+Projeto para calcular média de notas escolares
